@@ -1,0 +1,2 @@
+../Uart_Library/uart.c:9:6:receive_data	16	static
+../Uart_Library/uart.c:22:6:uart_handle	8	static

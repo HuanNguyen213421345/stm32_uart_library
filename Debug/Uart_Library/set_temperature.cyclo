@@ -1,0 +1,2 @@
+../Uart_Library/set_temperature.c:3:6:set_temperature_max	1
+../Uart_Library/set_temperature.c:8:6:set_temperature_min	1

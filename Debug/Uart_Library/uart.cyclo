@@ -1,0 +1,2 @@
+../Uart_Library/uart.c:9:6:receive_data	2
+../Uart_Library/uart.c:22:6:uart_handle	2

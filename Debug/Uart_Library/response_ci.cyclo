@@ -1,0 +1,2 @@
+../Uart_Library/response_ci.c:12:6:response_print	1
+../Uart_Library/response_ci.c:23:6:response_init	1
